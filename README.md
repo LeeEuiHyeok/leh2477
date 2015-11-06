@@ -3,5 +3,5 @@
 ## 7조
 
 - 이의혁 (LeeEuiHyeok)
-- 이현수 (eyu0308)
+- 이현수 (eyu0380)
 - 한준희 (HANJUNHUI)
