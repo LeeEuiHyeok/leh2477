@@ -115,22 +115,7 @@
   마. 공지사항을 확인 할 수 있다.
 ##**3-2 시스템 구조**
 ![](http://postfiles14.naver.net/20151211_77/junhui4546_1449804094393GGURC_PNG/%B1%B8%C1%B6%B5%B5.PNG?type=w2)
-
-#**4. 기술 및 개발환경 조사**
- 1. 하드웨어
-   항목
-  **권장사양**
-  -CPU: 1.5GHz
-  -Android 4.4.2
-  -RAM: 3GB
-  **최소사양**
-  -CPU: 1.2GHz
-  -Android 4.0
-  -RAM:1GB
-
- 2. 소프트웨어
-  -개발 도구  android studio
-  -DB 구현 MySQL 7.2
-  -GUI 및 디자인 표현 Photoshop CS5
+![](http://blog.naver.com/PostView.nhn?blogId=junhui4546&logNo=220565279023&redirect=Dlog&widgetTypeCall=true#)
+#**5. 기술 및 개발환경 조사**
 
 
