@@ -115,7 +115,7 @@
   마. 공지사항을 확인 할 수 있다.
 ##**3-2 시스템 구조**
 ![](http://postfiles14.naver.net/20151211_77/junhui4546_1449804094393GGURC_PNG/%B1%B8%C1%B6%B5%B5.PNG?type=w2)
-![](http://blog.naver.com/PostView.nhn?blogId=junhui4546&logNo=220565279023&redirect=Dlog&widgetTypeCall=true#)
+![](http://postfiles8.naver.net/20151211_55/junhui4546_1449804094514taHDa_PNG/%BB%F3%BC%BC.PNG?type=w2)
 #**5. 기술 및 개발환경 조사**
 
 
