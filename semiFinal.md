@@ -116,6 +116,12 @@
 ##**3-2 시스템 구조**
 ![](http://postfiles14.naver.net/20151211_77/junhui4546_1449804094393GGURC_PNG/%B1%B8%C1%B6%B5%B5.PNG?type=w2)
 ![](http://postfiles8.naver.net/20151211_55/junhui4546_1449804094514taHDa_PNG/%BB%F3%BC%BC.PNG?type=w2)
+![](http://postfiles3.naver.net/20151211_98/junhui4546_1449804094617AMkLA_PNG/%BB%F3%BC%BC2.PNG?type=w2)
+![]()
+![]()
+![]()
+![]()![]()
+
 #**5. 기술 및 개발환경 조사**
 
 
