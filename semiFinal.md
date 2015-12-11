@@ -1,4 +1,4 @@
-#**문제정의**
+#**1. 문제정의**
 ##**1-1 문제상황**
   1. 최근 GNP[ Gross National Product ]가 증가하면서 홀로 떠나는 유럽배낭 여행객들도 많아짐
   2. 유럽배낭여행객들 중 유럽 내에서 함께 여행할 동행자 구하는 일이 많아지고 있음 (ex: 네이버 유랑 카페 이용자 수 증가)
@@ -117,9 +117,11 @@
   마. 공지사항을 확인 할 수 있다.
 ##**3-2 시스템 구조**
 
-#**4. 상세설계**
 ![](http://postfiles14.naver.net/20151211_77/junhui4546_1449804094393GGURC_PNG/%B1%B8%C1%B6%B5%B5.PNG?type=w2)
-![](http://postfiles8.naver.net/20151211_55/junhui4546_1449804094514taHDa_PNG/%BB%F3%BC%BC.PNG?type=w2)
+
+#**4. 상세설계**
+
+![](http://postfiles8.naver.net/20151211_151/junhui4546_1449804694194uLYi8_PNG/%B8%F0%B5%E2.PNG?type=w2)
 ![](http://postfiles3.naver.net/20151211_98/junhui4546_1449804094617AMkLA_PNG/%BB%F3%BC%BC2.PNG?type=w2)
 ![](http://postfiles2.naver.net/20151211_209/junhui4546_1449804614789HhMMu_PNG/%B8%F0%B5%E21.PNG?type=w2)
 ![](http://postfiles4.naver.net/20151211_243/junhui4546_14498046153230bkoo_PNG/%B8%F0%B5%E22.PNG?type=w2)
