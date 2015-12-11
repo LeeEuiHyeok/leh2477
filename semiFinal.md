@@ -55,6 +55,7 @@
 
 #**2-2 유사하고 동일한 문제를 해결한 아이디어**
 ![](http://postfiles2.naver.net/20151211_161/junhui4546_1449804617775J5PQe_PNG/%C0%AF%BB%E7%BE%C6%C0%CC%B5%F0%BE%EE.PNG?type=w2)
+  
   요즘 뜨고 있는 소셜네트워크서비스(SNS)인 위치기반서비스 (LBS:Location Based Service)로 가능하다.  
   위치기반서비스를 주기능으로 활용하는 위치기반 이다. 여러분이 방문하는 장소를 체크인하고 이미지와 글을 통해 추억을 만들 수 있다.
   위치기반 SNS중 가장 대중적인 포스퀘어(Four square)이다. 포스퀘어는 자신의 위치를 실시간으로 GPS를 통해 확인하고 친구들과 공유할 
@@ -115,6 +116,8 @@
   라. 어플리케이션의 버전을 확인/업데이트를 할 수 있다.
   마. 공지사항을 확인 할 수 있다.
 ##**3-2 시스템 구조**
+
+#**4. 상세설계**
 ![](http://postfiles14.naver.net/20151211_77/junhui4546_1449804094393GGURC_PNG/%B1%B8%C1%B6%B5%B5.PNG?type=w2)
 ![](http://postfiles8.naver.net/20151211_55/junhui4546_1449804094514taHDa_PNG/%BB%F3%BC%BC.PNG?type=w2)
 ![](http://postfiles3.naver.net/20151211_98/junhui4546_1449804094617AMkLA_PNG/%BB%F3%BC%BC2.PNG?type=w2)
@@ -130,7 +133,7 @@
 ![](http://postfiles2.naver.net/20151211_273/junhui4546_1449804616969zBLfP_PNG/%B8%F0%B5%E210.PNG?type=w2)
 ![](http://postfiles1.naver.net/20151211_192/junhui4546_1449804617204DtgWW_PNG/%B8%F0%B5%E211.PNG?type=w2)
 
-
 #**5. 기술 및 개발환경 조사**
+![](http://postfiles8.naver.net/20151211_103/junhui4546_14498048666963Votv_PNG/%C4%B8%C3%B3.PNG?type=w2)
 
 
